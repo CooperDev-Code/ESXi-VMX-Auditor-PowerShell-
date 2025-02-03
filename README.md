@@ -1,5 +1,7 @@
 🖥️ ESXi VMX Scanner (PowerShell) 🚀
+
 🔍 What does it do?
+
 ESXi VMX Scanner (PowerShell) is your ultimate VMX detective 🕵️‍♂️ for vCenter datastores! This script hunts down .vmx and .vmtx files across an ESXi datastore, deciphers whether they're registered VMs or ghostly remnants 👻, and logs everything into a neat CSV file.
 
 ✨ How it Works:
